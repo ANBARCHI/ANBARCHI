@@ -1,5 +1,6 @@
 {
   "version_code": 10007,
   "version_name": "1.0.0.7",
-  "update_url": "https://github.com/ANBARCHI/ANBARCHI/releases/download/APP/ANBARCHI-release.apk"
+  "update_url": "https://github.com/ANBARCHI/ANBARCHI/releases/download/APP/ANBARCHI-release.apk",
+  "changelog": "• امکانات جدید نسخه ۱.۰.۰.۷\n• بهبود سرعت بارگذاری\n• رفع مشکلات جزئی"
 }
